@@ -1,0 +1,445 @@
+{
+  "10.1 Sequences": [
+    {
+      "question 1": "Find the values of a1, a2, a3, and a4.",
+      "sequence": "5an6",
+      "terms": [
+        {
+          "n": 1,
+          "an": 0
+        },
+        {
+          "n": 2,
+          "an": -1
+        },
+        {
+          "n": 3,
+          "an": -2
+        },
+        {
+          "n": 4,
+          "an": -3
+        }
+      ]
+    },
+    {
+      "question 2": "Find the values of a1, a2, a3, and a4.",
+      "sequence": "5an6",
+      "terms": [
+        {
+          "n": 1,
+          "an": 1
+        },
+        {
+          "n": 2,
+          "an": 0.5
+        },
+        {
+          "n": 3,
+          "an": 0.16666666666666666
+        },
+        {
+          "n": 4,
+          "an": 0.041666666666666664
+        }
+      ]
+    },
+    {
+      "question 3": "Find the values of a1, a2, a3, and a4.",
+      "sequence": "5an6",
+      "terms": [
+        {
+          "n": 1,
+          "an": -1
+        },
+        {
+          "n": 2,
+          "an": 1
+        },
+        {
+          "n": 3,
+          "an": -0.3333333333333333
+        },
+        {
+          "n": 4,
+          "an": 0.5
+        }
+      ]
+    },
+    {
+      "question 4": "Find the values of a1, a2, a3, and a4.",
+      "sequence": "5an6",
+      "terms": [
+        {
+          "n": 1,
+          "an": 1
+        },
+        {
+          "n": 2,
+          "an": 1
+        },
+        {
+          "n": 3,
+          "an": 3
+        },
+        {
+          "n": 4,
+          "an": 3
+        }
+      ]
+    },
+    {
+      "question 5": "Find the values of a1, a2, a3, and a4.",
+      "sequence": "5an6",
+      "terms": [
+        {
+          "n": 1,
+          "an": 2
+        },
+        {
+          "n": 2,
+          "an": 1
+        },
+        {
+          "n": 3,
+          "an": 1
+        },
+        {
+          "n": 4,
+          "an": 1
+        }
+      ]
+    },
+    {
+      "question 6": "Find the values of a1, a2, a3, and a4.",
+      "sequence": "5an6",
+      "terms": [
+        {
+          "n": 1,
+          "an": 1
+        },
+        {
+          "n": 2,
+          "an": 0.5
+        },
+        {
+          "n": 3,
+          "an": 0.75
+        },
+        {
+          "n": 4,
+          "an": 0.875
+        }
+      ]
+    },
+    {
+      "question 7": "Write out the first ten terms of the sequence.",
+      "sequence": "an+2 = an+1 + an",
+      "terms": [
+        {
+          "n": 1,
+          "an": 1
+        },
+        {
+          "n": 2,
+          "an": 1
+        },
+        {
+          "n": 3,
+          "an": 2
+        },
+        {
+          "n": 4,
+          "an": 3
+        },
+        {
+          "n": 5,
+          "an": 5
+        },
+        {
+          "n": 6,
+          "an": 8
+        },
+        {
+          "n": 7,
+          "an": 13
+        },
+        {
+          "n": 8,
+          "an": 21
+        },
+        {
+          "n": 9,
+          "an": 34
+        },
+        {
+          "n": 10,
+          "an": 55
+        }
+      ]
+    },
+    {
+      "question 8": "Write out the first ten terms of the sequence.",
+      "sequence": "an+2 = an+1 > an",
+      "terms": [
+        {
+          "n": 1,
+          "an": 2
+        },
+        {
+          "n": 2,
+          "an": -1
+        },
+        {
+          "n": 3,
+          "an": 1
+        },
+        {
+          "n": 4,
+          "an": 0
+        },
+        {
+          "n": 5,
+          "an": 1
+        },
+        {
+          "n": 6,
+          "an": 1
+        },
+        {
+          "n": 7,
+          "an": 2
+        },
+        {
+          "n": 8,
+          "an": 3
+        },
+        {
+          "n": 9,
+          "an": 5
+        },
+        {
+          "n": 10,
+          "an": 8
+        }
+      ]
+    },
+    {
+      "question 9": "Write out the first ten terms of the sequence.",
+      "sequence": "",
+      "terms": [
+        {
+          "n": 1,
+          "an": 1
+        },
+        {
+          "n": 2,
+          "an": 1.5
+        },
+        {
+          "n": 3,
+          "an": 1.8333333333333333
+        },
+        {
+          "n": 4,
+          "an": 2.083333333333333
+        },
+        {
+          "n": 5,
+          "an": 2.283333333333333
+        },
+        {
+          "n": 6,
+          "an": 2.4499999999999997
+        },
+        {
+          "n": 7,
+          "an": 2.5928571428571425
+        },
+        {
+          "n": 8,
+          "an": 2.7178571428571425
+        },
+        {
+          "n": 9,
+          "an": 2.8289682539682537
+        },
+        {
+          "n": 10,
+          "an": 2.9289682539682537
+        }
+      ]
+    },
+    {
+      "question 10": "Write out the first ten terms of the sequence.",
+      "sequence": "",
+      "terms": [
+        {
+          "n": 1,
+          "an": 1
+        },
+        {
+          "n": 2,
+          "an": 0.5
+        },
+        {
+          "n": 3,
+          "an": 0.16666666666666666
+        },
+        {
+          "n": 4,
+          "an": 0.041666666666666664
+        },
+        {
+          "n": 5,
+          "an": 0.008333333333333333
+        },
+        {
+          "n": 6,
+          "an": 0.001388888888888889
+        },
+        {
+          "n": 7,
+          "an": 0.0001984126984126984
+        },
+        {
+          "n": 8,
+          "an": 2.48015873015873e-05
+        },
+        {
+          "n": 9,
+          "an": 2.755731922398589e-06
+        },
+        {
+          "n": 10,
+          "an": 2.7557319223985893e-07
+        }
+      ]
+    },
+    {
+      "question 11": "Write out the first ten terms of the sequence.",
+      "sequence": "an+2 = an+1 + an",
+      "terms": [
+        {
+          "n": 1,
+          "an": 1
+        },
+        {
+          "n": 2,
+          "an": 1
+        },
+        {
+          "n": 3,
+          "an": 2
+        },
+        {
+          "n": 4,
+          "an": 3
+        },
+        {
+          "n": 5,
+          "an": 5
+        },
+        {
+          "n": 6,
+          "an": 8
+        },
+        {
+          "n": 7,
+          "an": 13
+        },
+        {
+          "n": 8,
+          "an": 21
+        },
+        {
+          "n": 9,
+          "an": 34
+        },
+        {
+          "n": 10,
+          "an": 55
+        }
+      ]
+    },
+    {
+      "question 12": "Write out the first ten terms of the sequence.",
+      "sequence": "an+2 = an+1 > an",
+      "terms": [
+        {
+          "n": 1,
+          "an": 2
+        },
+        {
+          "n": 2,
+          "an": -1
+        },
+        {
+          "n": 3,
+          "an": 1
+        },
+        {
+          "n": 4,
+          "an": 0
+        },
+        {
+          "n": 5,
+          "an": 1
+        },
+        {
+          "n": 6,
+          "an": 1
+        },
+        {
+          "n": 7,
+          "an": 2
+        },
+        {
+          "n": 8,
+          "an": 3
+        },
+        {
+          "n": 9,
+          "an": 5
+        },
+        {
+          "n": 10,
+          "an": 8
+        },
+        {
+          "question 27": "Does the sequence converge, and which diverge? Find the limit of each convergent sequence: an = 2 + (0.1)n",
+          "sequence": "an = 2 + (0.1)n"
+        },
+        {
+          "question 28": "Does the sequence converge, and which diverge? Find the limit of each convergent sequence: an = n + (-1)^n / n",
+          "sequence": "an = n + (-1)^n / n"
+        },
+        {
+          "question 29": "Does the sequence converge, and which diverge? Find the limit of each convergent sequence: an = (1 - 2n) / (1 + 2n)",
+          "sequence": "an = (1 - 2n) / (1 + 2n)"
+        },
+        {
+          "question 30": "Does the sequence converge, and which diverge? Find the limit of each convergent sequence: an = (2n + 1) / (1 - 32n)",
+          "sequence": "an = (2n + 1) / (1 - 32n)"
+        },
+        {
+          "question 31": "Does the sequence converge, and which diverge? Find the limit of each convergent sequence: an = (1 - 5n^4) / (n^4 + 8n^3)",
+          "sequence": "an = (1 - 5n^4) / (n^4 + 8n^3)"
+        },
+        {
+          "question 32": "Does the sequence converge, and which diverge? Find the limit of each convergent sequence: an = (n + 3) / (n^2 + 5n + 6)",
+          "sequence": "an = (n + 3) / (n^2 + 5n + 6)"
+        },
+        {
+          "question 33": "Does the sequence converge, and which diverge? Find the limit of each convergent sequence: an = (n^2 - 2n + 1) / (n - 1)",
+          "sequence": "an = (n^2 - 2n + 1) / (n - 1)"
+        },
+        {
+          "question 34": "Does the sequence converge, and which diverge? Find the limit of each convergent sequence: an = (1 - n^3) / (70 - 4n^2)",
+          "sequence": "an = (1 - n^3) / (70 - 4n^2)"
+        }
+      ]
+    }
+  ]
+
+}
