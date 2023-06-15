@@ -1,4 +1,5 @@
 # ChatGPT-Research
+
 The objective of this project is to see how well chatGPT can answer various math questions that are simplistic and cognitively demanding. 
 
 The present research aims to assess the proficiency of ChatGPT, which is acknowledged as one of the most sophisticated and prevalent artificial intelligence technologies available today, in addressing both complex and straightforward mathematical computations and questions that require cognitive effort. The primary objective of the study was to ascertain the efficacy of ChatGPT in facilitating students' acquisition and comprehension of mathematical concepts.
