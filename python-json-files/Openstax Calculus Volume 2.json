@@ -1,0 +1,815 @@
+{
+    "Section 5.1 Sequences": [
+        {
+            "question 1": "Find the formula for the nth term of the sequence: an = 1 + (-1)^n, for n \u2265 1.",
+            "sequence": "an = 1 + (-1)^n"
+        },
+        {
+            "question 2": "Find the formula for the nth term of the sequence: an = n^2 - 1, for n \u2265 1.",
+            "sequence": "an = n^2 - 1"
+        },
+        {
+            "question 3": "Find the formula for the nth term of the sequence: a1 = 1 and an = an-1 + n, for n \u2265 2.",
+            "sequence": "a1 = 1, an = an-1 + n"
+        },
+        {
+            "question 4": "Find the formula for the nth term of the sequence: a1 = 1, a2 = 1 and an+2 = an + an+1, for n \u2265 1.",
+            "sequence": "a1 = 1, a2 = 1, an+2 = an + an+1"
+        },
+        {
+            "question 5": "Find the explicit formula for the nth term of the sequence: a1 = 1 and an = an-1 + n, for n \u2265 2.",
+            "sequence": "a1 = 1, an = an-1 + n"
+        },
+        {
+            "question 6": "Find a formula for the nth term of an arithmetic sequence with a1 = 1, such that an+1 - an = 17, for n \u2265 1.",
+            "sequence": "a1 = 1, an+1 - an = 17"
+        },
+        {
+            "question 7": "Find a formula for the nth term of an arithmetic sequence with a1 = -3, such that an+1 - an = 4, for n \u2265 1.",
+            "sequence": "a1 = -3, an+1 - an = 4"
+        },
+        {
+            "question 8": "Find a formula for the nth term of a geometric sequence with a1 = 1, such that an+1 / an = 10, for n \u2265 1.",
+            "sequence": "a1 = 1, an+1 / an = 10"
+        },
+        {
+            "question 9": "Find a formula for the nth term of a geometric sequence with a1 = 3, such that an+1 / an = 1/10, for n \u2265 1.",
+            "sequence": "a1 = 3, an+1 / an = 1/10"
+        },
+        {
+            "question 10": "Find an explicit formula for the nth term of the sequence whose first several terms are {0,3,8,15,24,35,48,63,80,99,\u2026}. (Hint: First add one to each term.)",
+            "sequence": "{0,3,8,15,24,35,48,63,80,99,\u2026}"
+        },
+        {
+            "question 11": "Find an explicit formula for the nth term of the sequence satisfying a1=0 and an=2an\u22121+1 for n\u22652.",
+            "sequence": "a1=0, an=2an\u22121+1"
+        },
+        {
+            "question 12": "Find a formula for the general term an of the following sequence: {1,0,\u22121,0,1,0,\u22121,0,\u2026}. (Hint: Find where sinx takes these values)",
+            "sequence": "{1,0,\u22121,0,1,0,\u22121,0,\u2026}"
+        },
+        {
+            "question 13": "Find a formula for the general term an of the following sequence: {1,\u22121/3,1/5,\u22121/7,\u2026}.",
+            "sequence": "{1,\u22121/3,1/5,\u22121/7,\u2026}"
+        },
+        {
+            "question 14": "Find a function f(n) that identifies the nth term an of the following recursively defined sequence: a1=1 and an+1=\u2212an for n\u22651.",
+            "sequence": "a1=1, an+1=\u2212an"
+        },
+        {
+            "question 15": "Find a function f(n) that identifies the nth term an of the following recursively defined sequence: a1=2 and an+1=2an for n\u22651.",
+            "sequence": "a1=2, an+1=2an"
+        },
+        {
+            "question 16": "Find a function f(n) that identifies the nth term an of the following recursively defined sequence: a1=1 and an+1=(n+1)an for n\u22651.",
+            "sequence": "a1=1, an+1=(n+1)an"
+        },
+        {
+            "question 17": "Find a function f(n) that identifies the nth term an of the following recursively defined sequence: a1=2 and an+1=(n+1)an/2 for n\u22651.",
+            "sequence": "a1=2, an+1=(n+1)an/2"
+        },
+        {
+            "question 18": "Find a function f(n) that identifies the nth term an of the following recursively defined sequence: a1=1 and an+1=an/2n for n\u22651.",
+            "sequence": "a1=1, an+1=an/2n"
+        },
+        {
+            "question 19": "Plot the first N terms of the sequence: a1=1, a2=2, and for n\u22652, an=12(an\u22121+an\u22122); N=30. State whether the graphical evidence suggests that the sequence converges or diverges.",
+            "sequence": "a1=1, a2=2, an=12(an\u22121+an\u22122); N=30"
+        },
+        {
+            "question 20": "Plot the first N terms of the sequence: a1=1, a2=2, a3=3 and for n\u22654, an=13(an\u22121+an\u22122+an\u22123); N=30. State whether the graphical evidence suggests that the sequence converges or diverges.",
+            "sequence": "a1=1, a2=2, a3=3, an=13(an\u22121+an\u22122+an\u22123); N=30"
+        },
+        {
+            "question 21": "Plot the first N terms of the sequence: a1=1, a2=2, and for n\u22653, an=an\u22121an\u22122\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u221a; N=30. State whether the graphical evidence suggests that the sequence converges or diverges.",
+            "sequence": "a1=1, a2=2, an=an\u22121an\u22122\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u221a; N=30"
+        },
+        {
+            "question 22": "Plot the first N terms of the sequence: a1=1, a2=2, a3=3, and for n\u22654, an=an\u22121an\u22122an\u22123\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u221a; N=30. State whether the graphical evidence suggests that the sequence converges or diverges.",
+            "sequence": "a1=1, a2=2, a3=3, an=an\u22121an\u22122an\u22123\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u2212\u221a; N=30"
+        },
+        {
+            "question 23": "Evaluate the limit: limn\u2192\u221e(3an\u22124bn)",
+            "sequence": "(3an\u22124bn)"
+        },
+        {
+            "question 24": "Evaluate the limit: limn\u2192\u221e(12bn\u221212an)",
+            "sequence": "(12bn\u221212an)"
+        },
+        {
+            "question 25": "Evaluate the limit: limn\u2192\u221e(an+bnan\u2212bn)",
+            "sequence": "(an+bnan\u2212bn)"
+        },
+        {
+            "question 26": "Evaluate the limit: limn\u2192\u221e(an\u2212bnan+bn)",
+            "sequence": "(an\u2212bnan+bn)"
+        },
+        {
+            "question 27": "Find the limit of the sequence: n22n",
+            "sequence": "n22n"
+        },
+        {
+            "question 28": "Find the limit of the sequence: (n\u22121)2(n+1)2",
+            "sequence": "(n\u22121)2(n+1)2"
+        },
+        {
+            "question 29": "Find the limit of the sequence: n\u221an+1\u221a",
+            "sequence": "n\u221an+1\u221a"
+        },
+        {
+            "question 30": "Find the limit of the sequence: n1/n",
+            "sequence": "n1/n"
+        },
+        {
+            "question 31": "For the sequence n/2n, n\u22652, determine if it is bounded and eventually monotone.",
+            "sequence": "n/2n"
+        },
+        {
+            "question 32": "For the sequence ln(1+1n), determine if it is bounded and eventually monotone.",
+            "sequence": "ln(1+1n)"
+        },
+        {
+            "question 33": "For the sequence sinn, determine if it is bounded and eventually monotone.",
+            "sequence": "sinn"
+        },
+        {
+            "question 34": "For the sequence cos(n2), determine if it is bounded and eventually monotone.",
+            "sequence": "cos(n2)"
+        },
+        {
+            "question 35": "For the sequence n1/n, n\u22653, determine if it is bounded and eventually monotone.",
+            "sequence": "n1/n"
+        },
+        {
+          "question 61": "A student takes out a college loan of $10,000 at an annual percentage rate of 6%, compounded monthly. If the student makes payments of $100 per month, how much does the student owe after 12 months? After how many months will the loan be paid off?",
+          "sequence": "Amount owed on the college loan after n months",
+          "cognitive": true
+        },
+        {
+          "question 62": "Consider a series combining geometric growth and arithmetic decrease. Let a1=1. Fix a>1 and 0<b<a. Set an+1=a.an−b. Find a formula for an+1 in terms of an, a, and b and a relationship between a and b such that an converges.",
+          "sequence": "Sequence an combining geometric growth and arithmetic decrease",
+          "cognitive": true
+        },
+        {
+          "question 63": "The binary representation x=0.b1b2b3... of a number x between 0 and 1 can be defined as follows. Let b1=0 if x<1/2 and b1=1 if 1/2≤x<1. Let x1=2x−b1. Let b2=0 if x1<1/2 and b2=1 if 1/2≤x<1. Let x2=2x1−b2 and in general, xn=2xn−1−bn and bn−1=0 if xn<1/2 and bn−1=1 if 1/2≤xn<1. Find the binary expansion of 1/3.",
+          "sequence": "Binary expansion of 1/3",
+          "cognitive": true
+        },
+        {
+          "question 64": "To find an approximation for π, set a0=2+1−−−−√, a1=2+a0−−−−−√, and, in general, an+1=2+an−−−−−√. Finally, set pn=3.2n2−an−−−−−√. Find the first ten terms of pn and compare the values to π.",
+          "sequence": "Approximation of π using the sequence pn",
+          "cognitive": true
+        }
+    ],
+    "seqSection 5.2 Infinite Series": [
+        {
+          "question 67": "Using sigma notation, write the following expressions as infinite series.\n1+12+13+14+⋯",
+          "sequence": "Infinite series representation of 1+12+13+14+⋯"
+        },
+        {
+          "question 68": "Using sigma notation, write the following expressions as infinite series.\n1−1+1−1+⋯",
+          "sequence": "Infinite series representation of 1−1+1−1+⋯"
+        },
+        {
+          "question 69": "Using sigma notation, write the following expressions as infinite series.\n1−12+13−14+...",
+          "sequence": "Infinite series representation of 1−12+13−14+..."
+        },
+        {
+          "question 70": "Using sigma notation, write the following expressions as infinite series.\nsin1+sin1/2+sin1/3+sin1/4+⋯",
+          "sequence": "Infinite series representation of sin1+sin1/2+sin1/3+sin1/4+⋯"
+        },
+        {
+          "question 71": "Compute the first four partial sums S1,…,S4 for the series having nth term an starting with n=1 as follows.\nan=n",
+          "sequence": "Sequence representation of an=n"
+        },
+        {
+          "question 72": "Compute the first four partial sums S1,…,S4 for the series having nth term an starting with n=1 as follows.\nan=1/n",
+          "sequence": "Sequence representation of an=1/n"
+        },
+        {
+          "question 73": "Compute the first four partial sums S1,…,S4 for the series having nth term an starting with n=1 as follows.\nan=sin(nπ/2)",
+          "sequence": "Sequence representation of an=sin(nπ/2)"
+        },
+        {
+          "question 74": "Compute the first four partial sums S1,…,S4 for the series having nth term an starting with n=1 as follows.\nan=(-1)^n",
+          "sequence": "Sequence representation of an=(-1)^n"
+        },
+        {
+          "question 75": "In the following exercises, compute the general term an of the series with the given partial sum Sn. If the sequence of partial sums converges, find its limit S.\nSn=1−1/n,\nn≥2",
+          "sequence": "General term representation of Sn=1−1/n"
+        },
+        {
+          "question 76": "In the following exercises, compute the general term an of the series with the given partial sum Sn. If the sequence of partial sums converges, find its limit S.\nSn=n(n+1)/2,\nn≥1",
+          "sequence": "General term representation of Sn=n(n+1)/2"
+        },
+        {
+          "question 77": "In the following exercises, compute the general term an of the series with the given partial sum Sn. If the sequence of partial sums converges, find its limit S.\nSn=n^(1/2),\nn≥2",
+          "sequence": "General term representation of Sn=n^(1/2)"
+        },
+        {
+          "question 78": "In the following exercises, compute the general term an of the series with the given partial sum Sn. If the sequence of partial sums converges, find its limit S.\nSn=2-(n+2)/(2n),\nn≥1",
+          "sequence": "General term representation of Sn=2-(n+2)/(2n)"
+        },
+        {
+          "question 79": "For each of the following series, use the sequence of partial sums to determine whether the series converges or diverges.\n∑n=1∞n/(n+2)",
+          "sequence": "Series representation of ∑n=1∞n/(n+2)"
+        },
+        {
+          "question 80": "For each of the following series, use the sequence of partial sums to determine whether the series converges or diverges.\n∑n=1∞(1-(-1)^n)",
+          "sequence": "Series representation of ∑n=1∞(1-(-1)^n)"
+        },
+        {
+          "question 81": "For each of the following series, use the sequence of partial sums to determine whether the series converges or diverges.\n∑n=1∞1/((n+1)(n+2))",
+          "sequence": "Series representation of ∑n=1∞1/((n+1)(n+2))"
+        },
+        {
+          "question 82": "For each of the following series, use the sequence of partial sums to determine whether the series converges or diverges.\n∑n=1∞1/(2n+1)",
+          "sequence": "Series representation of ∑n=1∞1/(2n+1)"
+        },
+        {
+          "question 83": "Suppose that ∑n=1∞an=1, that ∑n=1∞bn=−1, that a1=2, and b1=−3. Find the sum of the indicated series.\n∑n=1∞(an+bn)",
+          "sequence": "Sum of the series ∑n=1∞(an+bn)"
+        },
+        {
+          "question 84": "Suppose that ∑n=1∞an=1, that ∑n=1∞bn=−1, that a1=2, and b1=−3. Find the sum of the indicated series.\n∑n=1∞(an-2bn)",
+          "sequence": "Sum of the series ∑n=1∞(an-2bn)"
+        },
+        {
+          "question 85": "Suppose that ∑n=1∞an=1, that ∑n=1∞bn=−1, that a1=2, and b1=−3. Find the sum of the indicated series.\n∑n=2∞(an-bn)",
+          "sequence": "Sum of the series ∑n=2∞(an-bn)"
+        },
+        {
+          "question 86": "Suppose that ∑n=1∞an=1, that ∑n=1∞bn=−1, that a1=2, and b1=−3. Find the sum of the indicated series.\n∑n=1∞(3an+1-4bn+1)",
+          "sequence": "Sum of the series ∑n=1∞(3an+1-4bn+1)"
+        },
+        {
+          "question 87": "State whether the given series converges and explain why.\n∑n=1∞1/((2^n)(n+1))",
+          "sequence": "Convergence analysis of the series ∑n=1∞1/((2^n)(n+1))"
+        },
+        {
+          "question 88": "State whether the given series converges and explain why.\n∑n=1∞(n-3)/(2^n)",
+          "sequence": "Convergence analysis of the series ∑n=1∞(n-3)/(2^n)"
+        },
+        {
+          "question 89": "State whether the given series converges and explain why.\n∑n=1∞(2^n)/(3^n)",
+          "sequence": "Convergence analysis of the series ∑n=1∞(2^n)/(3^n)"
+        },
+        {
+          "question 90": "State whether the given series converges and explain why.\n∑n=1∞(−1)^(n+1)/(n^2+3)",
+          "sequence": "Convergence analysis of the series ∑n=1∞(−1)^(n+1)/(n^2+3)"
+        },
+        {
+          "question 91": "State whether the given series converges absolutely, converges conditionally, or diverges.\n∑n=1∞((-1)^(n+1))/n!",
+          "sequence": "Absolute/conditional convergence analysis of the series ∑n=1∞((-1)^(n+1))/n!"
+        },
+        {
+          "question 92": "State whether the given series converges absolutely, converges conditionally, or diverges.\n∑n=1∞(−1)^(n+1)/n^2",
+          "sequence": "Absolute/conditional convergence analysis of the series ∑n=1∞(−1)^(n+1)/n^2"
+        },
+        {
+          "question 93": "State whether the given series converges absolutely, converges conditionally, or diverges.\n∑n=1∞((−1)^(n+1))(n+3)/2^n",
+          "sequence": "Absolute/conditional convergence analysis of the series ∑n=1∞((−1)^(n+1))(n+3)/2^n"
+        },
+        {
+          "question 94": "State whether the given series converges absolutely, converges conditionally, or diverges.\n∑n=1∞((−1)^(n+1))(n+3)!/n!",
+          "sequence": "Absolute/conditional convergence analysis of the series ∑n=1∞((−1)^(n+1))(n+3)!/n!"
+        },
+        {
+          "question 95": "Find a series whose terms an satisfy the given condition.\nlimn→∞an=0 but the series ∑n=1∞an diverges.",
+          "sequence": "Series with terms satisfying limn→∞an=0 and ∑n=1∞an diverges"
+        },
+        {
+          "question 96": "Find a series whose terms an satisfy the given condition.\nlimn→∞an=0 but the series ∑n=1∞an converges.",
+          "sequence": "Series with terms satisfying limn→∞an=0 and ∑n=1∞an converges"
+        },
+        {
+          "question 97": "Find a series whose terms an satisfy the given condition.\nlimn→∞an≠0 but the series ∑n=1∞an converges.",
+          "sequence": "Series with terms satisfying limn→∞an≠0 and ∑n=1∞an converges"
+        },
+        {
+          "question 98": "Find a series whose terms an satisfy the given condition.\nlimn→∞an≠0 but the series ∑n=1∞an diverges.",
+          "sequence": "Series with terms satisfying limn→∞an≠0 and ∑n=1∞an diverges"
+        },
+        {
+          "question 99": "The Taylor series centered at x=0 for a function f has the given interval of convergence. Determine whether each statement is true or false.\n\nThe radius of convergence is 2.",
+          "sequence": "Analysis of the radius of convergence for a Taylor series"
+        },
+        {
+          "question 100": "The Taylor series centered at x=0 for a function f has the given interval of convergence. Determine whether each statement is true or false.\n\nThe series converges for all x.",
+          "sequence": "Analysis of the interval of convergence for a Taylor series"
+        },
+        {
+          "question 101": "The Taylor series centered at x=0 for a function f has the given interval of convergence. Determine whether each statement is true or false.\n\nThe series converges only at x=0.",
+          "sequence": "Analysis of the interval of convergence for a Taylor series"
+        },
+        {
+          "question 102": "The Taylor series centered at x=0 for a function f has the given interval of convergence. Determine whether each statement is true or false.\n\nThe interval of convergence is (−2,2).",
+          "sequence": "Analysis of the interval of convergence for a Taylor series"
+        },
+        {
+            "question 127": "[T] Suppose that the amount of a drug in a patient’s system diminishes by a multiplicative factor r < 1 each hour. Suppose that a new dose is administered every N hours. Find an expression that gives the amount A(n) in the patient’s system after n hours for each n in terms of the dosage d and the ratio r. (Hint: Write n = mN + k, where 0 ≤ k < N, and sum over values from the different doses administered.)",
+            "sequence": "Amount of drug in patient's system after n hours",
+            "cognitive": true
+          },
+          {
+            "question 128": "[T] A certain drug is effective for an average patient only if there is at least 1 mg per kg in the patient’s system, while it is safe only if there is at most 2 mg per kg in an average patient’s system. Suppose that the amount in a patient’s system diminishes by a multiplicative factor of 0.9 each hour after a dose is administered. Find the maximum interval N of hours between doses, and corresponding dose range d (in mg/kg) for this N that will enable use of the drug to be both safe and effective in the long term.",
+            "sequence": "Dose regimen for safe and effective use of a drug",
+            "cognitive": true
+          },
+          {
+            "question 129": "Suppose that an ≥ 0 is a sequence of numbers. Explain why the sequence of partial sums of an is increasing.",
+            "sequence": "Increasing sequence of partial sums",
+            "cognitive": true
+          },
+          {
+            "question 130": "[T] Suppose that an is a sequence of positive numbers and the sequence Sn of partial sums of an is bounded above. Explain why ∑n=1∞an converges. Does the conclusion remain true if we remove the hypothesis an ≥ 0?",
+            "sequence": "Convergence of the series ∑n=1∞an",
+            "cognitive": true
+          }
+      ],
+    "Section 5.3 The Divergence and Integral Tests": [
+        {
+            "question 138": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n138.  an=nn+2",
+            "sequence": "Divergence test for series 138"
+          },
+          {
+            "question 139": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n139.  an=n5n2−3",
+            "sequence": "Divergence test for series 139"
+          },
+          {
+            "question 140": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n140.  an=n3n2+2n+1√",
+            "sequence": "Divergence test for series 140"
+          },
+          {
+            "question 141": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n141.  an=(2n+1)(n−1)(n+1)2",
+            "sequence": "Divergence test for series 141"
+          },
+          {
+            "question 142": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n142.  an=(2n+1)2n(3n2+1)n",
+            "sequence": "Divergence test for series 142"
+          },
+          {
+            "question 143": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n143.  an=2n3n/2",
+            "sequence": "Divergence test for series 143"
+          },
+          {
+            "question 144": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n144.  an=2n+3n10n/2",
+            "sequence": "Divergence test for series 144"
+          },
+          {
+            "question 145": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n145.  an=e−2/n",
+            "sequence": "Divergence test for series 145"
+          },
+          {
+            "question 146": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n146.  an=cosn",
+            "sequence": "Divergence test for series 146"
+          },
+          {
+            "question 147": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n147.  an=tann",
+            "sequence": "Divergence test for series 147"
+          },
+          {
+            "question 148": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n148.  an=1−cos2(1/n)sin2(2/n)",
+            "sequence": "Divergence test for series 148"
+          },
+          {
+            "question 149": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n149.  an=(1−1n)2n",
+            "sequence": "Divergence test for series 149"
+          },
+          {
+            "question 150": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n150.  an=lnnn",
+            "sequence": "Divergence test for series 150"
+          },
+          {
+            "question 151": "For each of the following series, if the divergence test applies, either state that limn→∞an does not exist or find limn→∞an.\nIf the divergence test does not apply, state why.\n\n151.  an=(lnn)2n√",
+            "sequence": "Divergence test for series 151"
+          },
+          {
+            "question 152": "State whether the given p-series converges.\n\n152.  ∑n=1∞1n−−√",
+            "sequence": "Convergence of p-series 152"
+          },
+          {
+            "question 153": "State whether the given p-series converges.\n\n153.  ∑n=1∞1nn−−√",
+            "sequence": "Convergence of p-series 153"
+          },
+          {
+            "question 154": "State whether the given p-series converges.\n\n154.  ∑n=1∞1n2−−√3",
+            "sequence": "Convergence of p-series 154"
+          },
+          {
+            "question 155": "State whether the given p-series converges.\n\n155.  ∑n=1∞1n4−−√3",
+            "sequence": "Convergence of p-series 155"
+          },
+          {
+            "question 156": "State whether the given p-series converges.\n\n156.  ∑n=1∞nenπ",
+            "sequence": "Convergence of p-series 156"
+          },
+          {
+            "question 157": "State whether the given p-series converges.\n\n157.  ∑n=1∞nπn2e",
+            "sequence": "Convergence of p-series 157"
+          },
+          {
+            "question 158": "Use the integral test to determine whether the following sums converge.\n\n158.  ∑n=1∞1n+5−−−−−√",
+            "sequence": "Convergence using integral test 158"
+          },
+          {
+            "question 159": "Use the integral test to determine whether the following sums converge.\n\n159.  ∑n=1∞1n+5−−−−−√3",
+            "sequence": "Convergence using integral test 159"
+          },
+          {
+            "question 160": "Use the integral test to determine whether the following sums converge.\n\n160.  ∑n=2∞1nlnn",
+            "sequence": "Convergence using integral test 160"
+          },
+          {
+            "question 161": "Use the integral test to determine whether the following sums converge.\n\n161.  ∑n=1∞n1+n2",
+            "sequence": "Convergence using integral test 161"
+          },
+          {
+            "question 162": "Use the integral test to determine whether the following sums converge.\n\n162.  ∑n=1∞en1+e2n",
+            "sequence": "Convergence using integral test 162"
+          },
+          {
+            "question 163": "Use the integral test to determine whether the following sums converge.\n\n163.  ∑n=1∞2n1+n4",
+            "sequence": "Convergence using integral test 163"
+          },
+          {
+            "question 164": "Use the integral test to determine whether the following sums converge.\n\n164.  ∑n=2∞1nln2n",
+            "sequence": "Convergence using integral test 164"
+          },
+          {
+            "question 165": "Express the following sums as p-series and determine whether each converges.\n\n165.  ∑n=1∞2−lnn",
+            "sequence": "Convergence as p-series 165"
+          },
+          {
+            "question 166": "Express the following sums as p-series and determine whether each converges.\n\n166.  ∑n=1∞3−lnn",
+            "sequence": "Convergence as p-series 166"
+          },
+          {
+            "question 167": "Express the following sums as p-series and determine whether each converges.\n\n167.  ∑n=1∞n2−2lnn",
+            "sequence": "Convergence as p-series 167"
+          },
+          {
+            "question 168": "Express the following sums as p-series and determine whether each converges.\n\n168.  ∑n=1∞n3−2lnn",
+            "sequence": "Convergence as p-series 168"
+          },
+          {
+            "question 169": "Use the estimate  RN≤∫∞Nf(t)dt to find a bound for the remainder RN=∑n=1∞an−∑n=1Nan where an=f(n).\n\n169.  ∑n=110001n2",
+            "sequence": "Estimating remainder for series 169"
+          },
+          {
+            "question 170": "Use the estimate  RN≤∫∞Nf(t)dt to find a bound for the remainder RN=∑n=1∞an−∑n=1Nan where an=f(n).\n\n170.  ∑n=11000n−n2",
+            "sequence": "Estimating remainder for series 170"
+          },
+          {
+            "question 171": "Use the estimate  RN≤∫∞Nf(t)dt to find a bound for the remainder RN=∑n=1∞an−∑n=1Nan where an=f(n).\n\n171.  ∑n=110000en−en+1",
+            "sequence": "Estimating remainder for series 171"
+          },
+          {
+            "question 172": "Use the estimate  RN≤∫∞Nf(t)dt to find a bound for the remainder RN=∑n=1∞an−∑n=1Nan where an=f(n).\n\n172.  ∑n=11000nlnn",
+            "sequence": "Estimating remainder for series 172"
+          },
+          {
+            "question 188": "Suppose a scooter can travel 100\n km on a full tank of fuel. Assuming that fuel can be transferred from one scooter to another but can only be carried in the tank, present a procedure that will enable one of the scooters to travel 100HN\n km, where HN=1+1/2+⋯+1/N.",
+            "sequence": "Procedure for scooter fuel transfer",
+            "cognitive": true
+            },
+            {
+            "question 189": "Show that for the remainder estimate to apply on [N,∞)\n it is sufficient that f(x)\n be decreasing on [N,∞),\n but f\n need not be decreasing on [1,∞).",
+            "sequence": "Conditions for remainder estimate to apply",
+            "cognitive": true
+            },
+            {
+            "question 190": "[T] Use the remainder estimate and integration by parts to approximate ∑n=1∞n/en\n within an error smaller than 0.0001.",
+            "sequence": "Approximation using remainder estimate and integration by parts",
+            "cognitive": true
+            },
+            {
+            "question 191": "Does ∑n=2∞1n(lnn)p\n converge if p\n is large enough? If so, for which p?",
+            "sequence": "Convergence of series with varying exponent",
+            "cognitive": true
+            },
+            {
+            "question 192": "[T] Suppose a computer can sum one million terms per second of the divergent series ∑n=1N1n.\n Use the integral test to approximate how many seconds it will take to add up enough terms for the partial sum to exceed 100.",
+            "sequence": "Approximating time to exceed a partial sum",
+            "cognitive": true
+            }
+    ],
+    "Section 5.4 Comparison Tests": [
+        {
+            "question 194": "Use the comparison test to determine whether the following series converge. ∑∞n=1an\n where an=2n(n+1)",
+            "sequence": "Series 194"
+            },
+            {
+            "question 195": "Use the comparison test to determine whether the following series converge. ∑∞n=1an\n where an=1n(n+1/2)",
+            "sequence": "Series 195"
+            },
+            {
+            "question 196": "Use the comparison test to determine whether the following series converge. ∑∞n=112(n+1)",
+            "sequence": "Series 196"
+            },
+            {
+            "question 197": "Use the comparison test to determine whether the following series converge. ∑∞n=112n−1",
+            "sequence": "Series 197"
+            },
+            {
+            "question 198": "Use the comparison test to determine whether the following series converge. ∑∞n=21(nlnn)2",
+            "sequence": "Series 198"
+            },
+            {
+            "question 199": "Use the comparison test to determine whether the following series converge. ∑∞n=1n!(n+2)!",
+            "sequence": "Series 199"
+            },
+            {
+            "question 200": "Use the comparison test to determine whether the following series converge. ∑∞n=11n!",
+            "sequence": "Series 200"
+            },
+            {
+            "question 201": "Use the comparison test to determine whether the following series converge. ∑n=1∞sin(1/n)n2",
+            "sequence": "Series 201"
+            },
+            {
+            "question 202": "Use the comparison test to determine whether the following series converge. ∑n=1∞sin2nn2",
+            "sequence": "Series 202"
+            },
+            {
+            "question 203": "Use the comparison test to determine whether the following series converge. ∑∞n=1sin(1/n)(n√)3",
+            "sequence": "Series 203"
+            },
+            {
+            "question 204": "Use the comparison test to determine whether the following series converge. ∑∞n=1n1.2−1n2.3+1",
+            "sequence": "Series 204"
+            },
+            {
+            "question 205": "Use the comparison test to determine whether the following series converge. ∑∞n=1n+1√−n√n",
+            "sequence": "Series 205"
+            },
+            {
+            "question 206": "Use the comparison test to determine whether the following series converge. ∑∞n=1n√4n4+n2√3",
+            "sequence": "Series 206"
+            },
+            {
+            "question 207": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1(lnnn)2",
+            "sequence": "Series 207"
+            },
+            {
+            "question 208": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1(lnnn0.6)2",
+            "sequence": "Series 208"
+            },
+            {
+            "question 209": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1ln(1+1n)n",
+            "sequence": "Series 209"
+            },
+            {
+            "question 210": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1ln(1+1n2)",
+            "sequence": "Series 210"
+            },
+            {
+            "question 211": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=114n−3n",
+            "sequence": "Series 211"
+            },
+            {
+            "question 212": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=11n2−nsinn",
+            "sequence": "Series 212"
+            },
+            {
+            "question 213": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=11e(1.1)n−3n",
+            "sequence": "Series 213"
+            },
+            {
+            "question 214": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=11e(1.01)n−3n",
+            "sequence": "Series 214"
+            },
+            {
+            "question 215": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=11n1+1/n",
+            "sequence": "Series 215"
+            },
+            {
+            "question 216": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1121+1/nn1+1/n",
+            "sequence": "Series 216"
+            },
+            {
+            "question 217": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1(1n−sin(1n))",
+            "sequence": "Series 217"
+            },
+            {
+            "question 218": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1(1−cos(1n))",
+            "sequence": "Series 218"
+            },
+            {
+            "question 219": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=11n(π2−tan−1n)",
+            "sequence": "Series 219"
+            },
+            {
+            "question 220": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1(1−1n)n.n\n (Hint: (1−1n)n→1/e.)",
+            "sequence": "Series 220"
+            },
+            {
+            "question 221": "Use the limit comparison test to determine whether the following series converge or diverge. ∑∞n=1(1−e−1/n)\n (Hint: 1/e≈(1−1/n)n,\n so 1−e−1/n≈1/n.)",
+            "sequence": "Series 221"
+            },
+            {
+            "question 222": "Use the limit comparison test to determine whether the following series converge or diverge. Does ∑∞n=21(lnn)p\n converge if p\n is large enough? If so, for which p?",
+            "sequence": "Series 222"
+            },
+            {
+            "question 223": "Use the limit comparison test to determine whether the following series converge or diverge. Does ∑∞n=1((lnn)n)p\n converge if p\n is large enough? If so, for which p?",
+            "sequence": "Series 223"
+            },
+            {
+            "question 224": "Use the limit comparison test to determine for which p\n does the series ∑∞n=12pn/3n\n converge?",
+            "sequence": "Series 224"
+            },
+            {
+            "question 225": "Use the limit comparison test to determine for which p>0\n does the series ∑∞n=1np2n\n converge?",
+            "sequence": "Series 225"
+            },
+            {
+            "question 226": "Use the limit comparison test to determine for which r>0\n does the series ∑∞n=1rn22n\n converge?",
+            "sequence": "Series 226"
+            },
+            {
+            "question 227": "Use the limit comparison test to determine for which r>0\n does the series ∑∞n=12nrn2\n converge?",
+            "sequence": "Series 227"
+            },
+            {
+            "question 228": "Use the limit comparison test to determine all values of p\n and q\n such that the series ∑∞n=1np(n!)q\n converges.",
+            "sequence": "Series 228"
+            },
+            {
+            "question 229": "Determine whether the series ∑∞n=1sin2(nr/2)n\n converges or diverges. Explain.",
+            "sequence": "Series 229"
+            },
+            {
+            "question 240": "Prove that if ∑bn converges, then ∑an converges, given that an/bn→0 in the comparison test, where an≥0 and bn≥0.",
+            "sequence": "Series for question 240",
+            "cognitive": true
+            },
+            {
+            "question 241": "What is the largest possible value of x=∑n=1∞bn/2n, where bn is an infinite sequence of zeros and ones?",
+            "sequence": "Series for question 241",
+            "cognitive": true
+            },
+            {
+            "question 242": "What is the largest possible value of x=∑n=1∞dn/10n, where dn is an infinite sequence of digits (0-9) that converges?",
+            "sequence": "Series for question 242",
+            "cognitive": true
+            },
+            {
+            "question 243": "Explain why, if x>1/2, then x cannot be written x=∑n=2∞bn2n (bn=0 or 1, b1=0).",
+            "sequence": "Series for question 243",
+            "cognitive": true
+            },
+            {
+            "question 244": "Evelyn has a perfect balancing scale, an unlimited number of 1-kg weights, and one each of 1/2-kg, 1/4-kg, 1/8-kg, and so on weights. Can she weigh a meteorite of unspecified origin to arbitrary precision using these weights? What does this have to do with infinite series?",
+            "sequence": "Series for question 244",
+            "cognitive": true
+            }
+    ],
+    "Section 5.5 Alternating Series": [
+        {
+            "question 250": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1n/n+3",
+            "series": "∑∞n=1(−1)n+1n/n+3"
+            },
+            {
+            "question 251": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1n√+1n√+3",
+            "series": "∑∞n=1(−1)n+1n√+1n√+3"
+            },
+            {
+            "question 252": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+11n+3√",
+            "series": "∑∞n=1(−1)n+11n+3√"
+            },
+            {
+            "question 253": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1n+3√n",
+            "series": "∑∞n=1(−1)n+1n+3√n"
+            },
+            {
+            "question 254": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+11n!",
+            "series": "∑∞n=1(−1)n+11n!"
+            },
+            {
+            "question 255": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+13nn!",
+            "series": "∑∞n=1(−1)n+13nn!"
+            },
+            {
+            "question 256": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1(n−1n)n",
+            "series": "∑∞n=1(−1)n+1(n−1n)n"
+            },
+            {
+            "question 257": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1(n+1n)n",
+            "series": "∑∞n=1(−1)n+1(n+1n)n"
+            },
+            {
+            "question 258": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1sin2n",
+            "series": "∑∞n=1(−1)n+1sin2n"
+            },
+            {
+            "question 259": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1cos2n",
+            "series": "∑∞n=1(−1)n+1cos2n"
+            },
+            {
+            "question 260": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1sin2(1/n)",
+            "series": "∑∞n=1(−1)n+1sin2(1/n)"
+            },
+            {
+            "question 261": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1cos2(1/n)",
+            "series": "∑∞n=1(−1)n+1cos2(1/n)"
+            },
+            {
+            "question 262": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1ln(1/n)",
+            "series": "∑∞n=1(−1)n+1ln(1/n)"
+            },
+            {
+            "question 263": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1ln(1+1n)",
+            "series": "∑∞n=1(−1)n+1ln(1+1n)"
+            },
+            {
+            "question 264": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1n21+n4",
+            "series": "∑∞n=1(−1)n+1n21+n4"
+            },
+            {
+            "question 265": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1ne1+nπ",
+            "series": "∑∞n=1(−1)n+1ne1+nπ"
+            },
+            {
+            "question 266": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+121/n",
+            "series": "∑∞n=1(−1)n+121/n"
+            },
+            {
+            "question 267": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1n1/n",
+            "series": "∑∞n=1(−1)n+1n1/n"
+            },
+            {
+            "question 268": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n(1−n1/n)",
+            "series": "∑∞n=1(−1)n(1−n1/n)"
+            },
+            {
+            "question 269": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1n(1−cos(1n))",
+            "series": "∑∞n=1(−1)n+1n(1−cos(1n))"
+            },
+            {
+            "question 270": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1(n+1−−−−−√−n−−√)",
+            "series": "∑∞n=1(−1)n+1(n+1−−−−−√−n−−√)"
+            },
+            {
+            "question 271": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1(1n√−1n+1√)",
+            "series": "∑∞n=1(−1)n+1(1n√−1n+1√)"
+            },
+            {
+            "question 272": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1(ln(n+1)−lnn)",
+            "series": "∑∞n=1(−1)n+1(ln(n+1)−lnn)"
+            },
+            {
+            "question 273": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1n(tan−1(n+1)−tan−1n)",
+            "series": "∑∞n=1(−1)n+1n(tan−1(n+1)−tan−1n)"
+            },
+            {
+            "question 274": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1((n+1)2−n2)",
+            "series": "∑∞n=1(−1)n+1((n+1)2−n2)"
+            },
+            {
+            "question 275": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1(−1)n+1(1n−1n+1)",
+            "series": "∑∞n=1(−1)n+1(1n−1n+1)"
+            },
+            {
+            "question 276": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1cos(nπ)n",
+            "series": "∑∞n=1cos(nπ)n"
+            },
+            {
+            "question 277": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1cos(nπ)n1/n",
+            "series": "∑∞n=1cos(nπ)n1/n"
+            },
+            {
+            "question 278": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=11nsin(nπ/2)",
+            "series": "∑∞n=11nsin(nπ/2)"
+            },
+            {
+            "question 279": "State whether each of the following series converges absolutely, conditionally, or not at all. ∑∞n=1sin(nπ/2)sin(1/n)",
+            "series": "∑∞n=1sin(nπ/2)sin(1/n)"
+            },
+            {
+            "question 298": "Show that the alternating series 1−12+12−14+13−16+14−18+⋯ does not converge. What hypothesis of the alternating series test is not met?",
+            "series": "1−12+12−14+13−16+14−18+⋯",
+            "cognitive": true
+            },
+            {
+            "question 299": "Suppose that  ∑an converges absolutely. Show that the series consisting of the positive terms  an also converges.",
+            "series": "∑an",
+            "cognitive": true
+            },
+            {
+            "question 300": "Show that the alternating series 23−35+47−59+⋯ does not converge. What hypothesis of the alternating series test is not met?",
+            "series": "23−35+47−59+⋯",
+            "cognitive": true
+            },
+            {
+            "question 292": "Suppose that an is a sequence of positive real numbers and that ∑n=1∞an converges. Suppose that bn is an arbitrary sequence of ones and minus ones. Does ∑n=1∞anbn necessarily converge?",
+            "series": "∑n=1∞anbn",
+            "cognitive": true
+            },
+            {
+            "question 293": "Suppose that an is a sequence such that ∑n=1∞anbn converges for every possible sequence bn of zeros and ones. Does ∑n=1∞an converge absolutely?",
+            "series": "∑n=1∞an",
+            "cognitive": true
+            }
+    ]
+}
